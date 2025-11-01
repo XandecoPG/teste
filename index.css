@@ -1,0 +1,38 @@
+body{   
+    background-image: url(https://pbs.twimg.com/media/FqLF54zWYAAxBBK.jpg);
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    background-color: black;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    display: inline;
+    font-size: 40px;
+    line-height: 2.5;
+    letter-spacing: 5px;
+    
+}
+h2{ 
+    display: block;
+    background-color: black;
+    font-weight: 100;
+    text-decoration: underline;
+    word-spacing: 3px;
+    white-space: nowrap;
+
+}
+
+.loguin{
+    
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZurSi3OSvMvm_l9QUz9INBwtfYPf6j2CybQ&s);
+    width: 200px;
+    height: 200px;
+    margin: 300px;
+    padding-left: 25px;
+    padding-top: 25px;
+    border-radius: 50px;
+    text-overflow: ellipsis;
+}
